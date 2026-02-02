@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🕵️ OSINT – Mega Tool")
+st.title("🕵️ OSINT – By JAYCKO-_-")
 st.caption("Données publiques uniquement – 100 % légal")
 
 # ================= UTILITAIRES =================
