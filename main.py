@@ -3,12 +3,12 @@ import requests
 import hashlib
 
 st.set_page_config(
-    page_title="OSINT FREE – Jaycko 🇫🇷",
+    page_title="OSIN – Jaycko 🇫🇷",
     page_icon="🕵️",
     layout="wide"
 )
 
-st.title("🕵️ OSINT FREE – Mega Tool")
+st.title("🕵️ OSINT – Mega Tool")
 st.caption("Données publiques uniquement – 100 % légal")
 
 # ================= UTILITAIRES =================
@@ -258,4 +258,4 @@ elif module == "🕰️ Historique Web":
 
 # ================= FOOTER =================
 st.markdown("---")
-st.caption("Créé par Jaycko 🇫🇷 – OSINT FREE – Tous modules intégrés")
+st.caption("Créé par Jaycko 🇫🇷 – OSINT")
